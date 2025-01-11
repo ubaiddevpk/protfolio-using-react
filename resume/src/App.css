@@ -1,0 +1,21 @@
+body{
+  margin: 0px;
+  padding: 0px;
+
+}
+
+ul{
+  margin-right: 40px;
+  display: flex;
+  align-items: center;
+justify-content: space-evenly;
+list-style-type: none;
+
+}
+li{
+  text-decoration: none;
+}
+img{
+  height: 200px;
+  width: 200px;
+}
